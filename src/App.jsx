@@ -95,7 +95,7 @@ Details: ${form.message}`;
               <option value="">Choose...</option>
               <option value="Moving">Moving</option>
               <option value="Cleaning">Cleaning</option>
-              <option value="Relocation">Relocation</option>
+              <option value="Marine">Marine</option>
             </select>
           </div>
 
